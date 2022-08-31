@@ -8,7 +8,6 @@ if(dataEvento>dataAtual) {
   console.log("Agendar evento")
 } else {
     console.log(" data invalida")
-
 }
 console.log("---------------------")
 if (idadeParticipante >= 18) {
