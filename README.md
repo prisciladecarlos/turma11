@@ -2,5 +2,5 @@
  
                    CURSO DO SENAI
                                       
- LISTA DE PEÇAS
+ LISTA DE PEÇAS /
  SIETEMA DE EVENTOS 
